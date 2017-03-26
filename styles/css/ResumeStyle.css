@@ -1,0 +1,23 @@
+h1{
+font-family: 
+    sans-serif; color: ghostwhite; 
+}
+h2{
+font-family: 
+    monospace; color: navy; font-size: 35px; 
+}
+h3{
+font-family:
+    monospace; color: darkgrey; font-size: 20px; 
+}
+h5{ font-family: 
+    sans-serif; color: navy;
+}
+li{ font-family:
+    monospace; color: black;
+}
+footer{ font-size: 14px; font: bold; font-family: monospace
+}
+p{
+    font-family: sans-serif; color: black;
+}
